@@ -1,1 +1,1 @@
-[Original reop link](https://github.com/NeovexBrowser/Neovex)
+[Original repo link](https://github.com/NeovexBrowser/Neovex)
